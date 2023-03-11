@@ -88,6 +88,8 @@ body {
     margin-right: 50px;
   }
   .scroll-top-btn {
+    bottom: 25px;
+    right: 30px;
     height: 40px;
     width: 40px;
     background-color: #444;
